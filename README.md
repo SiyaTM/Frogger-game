@@ -1,6 +1,6 @@
 # Frogger-game
 
-The breakout game formed a big part of many childrens lives. 
+The frogger is game that aims to test your general focus levels. 
 This is a time when games were mean't to be enjoyed, Arcade style. 
 
 The programming langauge used was Javascript. 
